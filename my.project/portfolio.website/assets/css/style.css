@@ -319,14 +319,6 @@ img {
   z-index: var(--z-back);
 }
 
-.skills__shopify {
-  width: 80%;
-}
-
-.skills__wordpress {
-  width: 88%;
-}
-
 .skills__html {
   width: 85%;
 }
@@ -337,6 +329,14 @@ img {
 }
 .skills__javascript {
   width: 50%;
+}
+
+.skills__shopify {
+  width: 80%;
+}
+
+.skills__wordpress {
+  width: 88%;
 }
 
 .skills__img {
